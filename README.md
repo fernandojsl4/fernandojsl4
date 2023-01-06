@@ -46,10 +46,10 @@ def getCity():
 <br/>
 <p>
   <a href="https://github.com/fernandojsl4/react-gallery-search">
-    <img width="400" src="https://raw.githubusercontent.com/fernandojsl4/react-gallery-search/master/images/gallery-searcher-app.png" />
+    <img width="400" height="210" style="object-fit: cover;" src="https://raw.githubusercontent.com/fernandojsl4/react-gallery-search/master/images/gallery-searcher-app.png" />
   </a>
   <a href="https://github.com/fernandojsl4/react-movie-search">
-    <img width="400" src="https://raw.githubusercontent.com/fernandojsl4/react-movie-search/master/images/movie-searcher-app.png" />
+    <img width="400" height="210" style="object-fit: cover;" src="https://raw.githubusercontent.com/fernandojsl4/react-movie-search/master/images/movie-searcher-app.png" />
   </a>
   <br />
   <a href="https://github.com/fernandojsl4/react-gallery-search">
@@ -62,7 +62,7 @@ def getCity():
 
 <p>
   <a href="https://github.com/fernandojsl4/hangman">
-    <img width="400" src="https://raw.githubusercontent.com/fernandojsl4/hangman/main/images/hangman.png" />
+    <img width="400" height="210" style="object-fit: cover;" src="https://raw.githubusercontent.com/fernandojsl4/hangman/main/images/hangman.png" />
   </a>
   <br />
   <a href="https://github.com/fernandojsl4/hangman">
